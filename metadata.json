@@ -1,0 +1,7 @@
+{
+  "name": "Happy 20th Birthday",
+  "description": "A highly interactive, aesthetic birthday experience with microphone-detected candle blowing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
